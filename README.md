@@ -3,7 +3,6 @@
 
 ```javascript
 const me = {
-  onlineName: 'Berjo',
   role: 'Front-end dev',
   tech: ['Javascript', 'HTML', 'CSS', 'Nodejs'],
 }
