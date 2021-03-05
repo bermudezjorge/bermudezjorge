@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/76016511/110168554-beee7b80-7dcd-11eb-81bf-ad9aa0360e66.png" alt="js wallpaper" width="100%" />
+<img src="wallpaper.jpg" alt="js wallpaper" width="100%" />
 
 ### 🙋‍♂️ I'm [![Linkedin: berjo](https://img.shields.io/badge/-berjo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jorge-bermudez-678053201/)](https://www.linkedin.com/in/jorge-bermudez-678053201/), front-end dev.
 
