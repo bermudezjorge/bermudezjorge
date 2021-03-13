@@ -4,7 +4,7 @@
 
 ```javascript
 const 📚 = {
-    code: ["javascript", "php", "go"],
+    code: ["javascript", "php"],
     askMeAbout: ["web dev", "tech", "javascript", "philosophy"],
     technologies: {
         mobileApp: ["react native"],
@@ -13,11 +13,11 @@ const 📚 = {
             css: ["materialize", "antd", "bootstrap", "bulma", "tailwind"]
         },
         backEnd: {
-            js: ["node", "express", "nest", ],
+            js: ["node", "express", "nest"],
         },
         databases: ["mongo", "mysql", "sqlite"],
-        misc: ["firebase", "socket.io", "php", "go"]
+        misc: ["firebase", "socket.io", "php", "go", "ruby", "visualbasic", "python", "c#"]
     },
-    currentFocus: "low-level/advance javascript"
+    currentFocus: "advance javascript"
 }
 ```
